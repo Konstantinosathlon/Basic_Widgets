@@ -1,12 +1,7 @@
--Basic Widgets
--React JS app
+## Basic Widgets 
+#### practice on API requests.
+## Functionality
+#### Straight forward web-app to 
 
--"Purpose of Wiki-Search?",
-
- To perform searches on Wikipedia and displaying snippets of multiple results.
--"Purpose of Translator?",
-
-To translate english text to Greek, Italian, Spanish or Dutch.
--"Author?",
-
-Kons Stav.
+* perform searches on Wikipedia and display snippets of multiple results or 
+* translate english text to Greek, Italian, Spanish or Dutch.
