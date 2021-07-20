@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 
 const Router =({ path, children })=>{
+  // eslint-disable-next-line
   const [currentPath, setCurrentPath] = useState(window.location.pathname);
 
   useEffect(() => {

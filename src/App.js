@@ -1,23 +1,7 @@
-import React, { useState } from "react";
 import Search from "./components/Search";
 import Translate from "./components/Translate";
 import Router from "./components/Router";
 import Header from "./components/Header";
-
-const items = [
-  {
-    title: "Purpose of Wiki-Search?",
-    content: "To perform searches on Wikipedia and displaying snippets of multiple results.",
-  },
-  {
-    title: "Purpose of Translator?",
-    content: "To translate english text to Greek, Italian, Spanish or Dutch.",
-  },
-  {
-    title: "Author?",
-    content: "Kons Stav.",
-  },
-];
 
 const App = () => {
   
@@ -30,7 +14,6 @@ const App = () => {
       <Router path={"/list"}>
         <Search />
       </Router>
-      
       <Router path={"/translate"}>
         <Translate />
       </Router>
