@@ -3,7 +3,7 @@
 ## Functionality
 #### Straight forward web-app to 
 
-* perform searches on [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) and display snippets of multiple results or 
+* perform searches using the [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) API and list snippets of multiple results, or 
 * [translate](https://translate.google.com/) text from English to Greek, Italian, Spanish or Dutch.
 
 ## Available Scripts
