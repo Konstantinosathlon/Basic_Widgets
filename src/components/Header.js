@@ -10,9 +10,7 @@ const Header = () => {
       <Link href="/list" className="item">
         Wiki-Search
       </Link>
-      {/* <Link href="/dropdown" className="item">
-        Dropdown
-      </Link> */}
+      
       <Link href="/translate" className="item">
         Translator
       </Link>
